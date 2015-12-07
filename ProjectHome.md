@@ -1,0 +1,1 @@
+GUI application for analyzing text sentiments.
